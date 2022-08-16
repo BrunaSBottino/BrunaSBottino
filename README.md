@@ -1,7 +1,7 @@
 <h1 align="left">Heyyy 👽✨</h1>
 
 ###
-<p align="left">My name is Bruna and i`m a android developer, from Rio de Janeiro, Brasil.</p>
+<p align="left">I`am Bruna and I`m an android developer from Rio de Janeiro, Brasil.</p>
 
 ###
 <h2 align="left">About me</h2>
