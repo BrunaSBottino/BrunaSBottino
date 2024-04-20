@@ -1,13 +1,13 @@
 <h1 align="left">Heyyy 👽✨</h1>
 
 ###
-<p align="left">I`am Bruna and I`m an android developer from Rio de Janeiro, Brasil.</p>
+<p align="left">I`am Bruna and I`m an android developer from Rio de Janeiro, Brasil, but now I live in São Paulo, Brasil.</p>
 
 ###
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">🔮 Creating bugs since 2021 🛠️<br>🧘‍♀️ 22 years old<br>🐾 I volunteer in animal protection 💘<br>🎲 I like boardgames & ClashRoyale 🎯<br>🌞 Nature lover 🍀</p>
+<p align="left">🔮 Creating bugs since 2021 🛠️<br>🧘‍♀️ 24 years old<br>🐾 I volunteer in animal protection 💘<br>🎲 I like boardgames & For Honor 🎯<br>🌞 Nature lover 🍀</p>
 
 ###
 <h2 align="left">📚 Technologies I use and am developing myself 🚀</h2>
